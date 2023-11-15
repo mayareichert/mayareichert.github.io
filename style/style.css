@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(242, 111, 150);
+}
+li:hover {
+    color: white
+}
